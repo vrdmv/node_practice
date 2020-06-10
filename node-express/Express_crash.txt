@@ -1,0 +1,6 @@
+Express is a "server-side" or "back-end" framework.
+Works in combination with front-end frameworks to build full-stack
+web-applications. E.g. build an API with Express, so that it takes requests
+from the front-end and it serves back data in JSON format. This data can be 
+rendered in the frond-end with html or template engines (handlebars, pug).
+
